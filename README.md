@@ -1,4 +1,4 @@
-# Formulário de Clientes
+# Mini programa Agenda Telefonica
 
 Este projeto é um formulário simples em PHP para coleta de dados de clientes. Os dados coletados incluem nome, email, telefone, gênero, data de nascimento, cidade, estado e endereço. O formulário utiliza HTML e CSS para a apresentação e estilo, além de PHP para manipulação de dados.
 
