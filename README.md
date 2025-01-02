@@ -36,4 +36,4 @@ Certifique-se de que esteja usando:
 - Tkinter (geralmente já incluído na instalação do Python).
 
 **Contribuições**
-Contribuições são bem-vindas! Se você deseja melhorar este projeto, sinta-se à vontade para me enviar uma mensagem. Um Grande abraço do Jeff.
+Modificações são bem-vindas! Se você deseja melhorar este projeto, sinta-se à vontade para me enviar uma mensagem. Um Grande abraço do Jeff.
